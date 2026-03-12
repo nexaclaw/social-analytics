@@ -1,0 +1,18 @@
+skill:
+  id: social-analytics
+  name: 📈 社交分析
+  version: "1.0.0"
+  
+description: |
+  多平台数据整合、竞品分析、趋势预测
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - social-analytics
+  - 📈 社交分析
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
